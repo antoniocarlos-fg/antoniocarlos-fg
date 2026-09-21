@@ -1,6 +1,12 @@
 # Antonio Carlos
 
-I'm a Systems Analysis and Development student at Fatec Ribeirão Preto, focused on software development and currently exploring web, desktop applications and game development.
+I'm a Systems Analysis and Development student at Fatec Ribeirão Preto, focused on software development and currently exploring web, desktop, and game development.
+
+### 🇧🇷 Português
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ribeirão Preto, com foco em desenvolvimento de software e interesse em desenvolvimento web, aplicações desktop e jogos.
+
+Atualmente, estou desenvolvendo projetos pessoais e acadêmicos enquanto amplio meus conhecimentos em desenvolvimento web e tecnologias full-stack.
 
 ## 🚀 Currently
 
@@ -40,9 +46,11 @@ I'm a Systems Analysis and Development student at Fatec Ribeirão Preto, focused
 
 ### [tarotr](https://github.com/antoniocarlos-fg/tarotr)
 
-A desktop tarot reading application built with Tauri, React, TypeScript and Tailwind CSS.
+A desktop tarot reading application built with Tauri, React, TypeScript, and Tailwind CSS.
 
 ## 📫 Contact
 
 - LinkedIn: [Antonio Carlos Farias Gouveia](https://www.linkedin.com/in/antonio-carlos-fg)
 - Email: antoniocarlosfgouveia@gmail.com
+
+---
