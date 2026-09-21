@@ -51,6 +51,6 @@ A desktop tarot reading application built with Tauri, React, TypeScript, and Tai
 ## 📫 Contact
 
 - LinkedIn: [Antonio Carlos Farias Gouveia](https://www.linkedin.com/in/antonio-carlos-fg)
-- Email: antoniocarlosfgouveia@gmail.com
+- Email: antoniocfariasgouveia@gmail.com
 
 ---
