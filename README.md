@@ -1,16 +1,48 @@
-## Hi there 👋
+# Antonio Carlos
 
-<!--
-**antoniocarlos-fg/antoniocarlos-fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Analysis and Development student at Fatec Ribeirão Preto, focused on software development and currently exploring web, desktop applications and game development.
 
-Here are some ideas to get you started:
+## 🚀 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Systems Analysis and Development — Fatec Ribeirão Preto
+- 💻 Learning web development and full-stack technologies
+- 🧩 Building personal and academic projects
+- 🐧 Linux user
+
+## 🛠️ Technologies
+
+**Languages**
+
+- TypeScript
+- C#
+- C
+- C++
+- VBA
+
+**Web & Desktop**
+
+- React
+- Tailwind CSS
+- HTML
+- CSS
+- Tauri
+
+**Tools & Platforms**
+
+- Git
+- GitHub
+- Linux
+- VS Code
+- Godot Engine
+- GameMaker Studio
+
+## 📌 Featured Projects
+
+### [tarotr](https://github.com/antoniocarlos-fg/tarotr)
+
+A desktop tarot reading application built with Tauri, React, TypeScript and Tailwind CSS.
+
+## 📫 Contact
+
+- LinkedIn: [Antonio Carlos Farias Gouveia](https://www.linkedin.com/in/antonio-carlos-fg)
+- Email: antoniocarlosfgouveia@gmail.com
