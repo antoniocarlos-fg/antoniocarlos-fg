@@ -48,7 +48,7 @@
             src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=nail_it&amp;theme=github_dark&amp;hide_border=false"
             align="top"
             alt="Nail It!"
-            width="45"
+            width="45%"
         />
     </a>
 </p>
