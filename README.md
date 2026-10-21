@@ -1,6 +1,6 @@
 <div align="center">
     <img src="assets/header.jpg" alt="Header" width="100%">
-    <h4><code>software developer | system analysis and development student</code></h4>
+    <h2><code>software developer | system analysis and development student</code></h2>
     <hr>
     <p>
         <img
@@ -13,21 +13,17 @@
 <table>
     <tr>
         <td width="60%" valign="center">
-            <h4><code>about me</code></h4>
+            <h3><code>about me</code></h3>
             <p>
                 i'm a software development student at Fatec Ribeirão Preto, Brazil,
-                focusing on my growth as a full stack developer.
-            </p>
-            <p>
+                focusing on my growth as a full stack developer. 
                 i've been working on web applications, desktop software,
                 and personal projects, while also exploring game development.
             </p>
-            <h4><code>sobre mim 🇧🇷</code></h4>
+            <h3><code>sobre mim 🇧🇷</code></h3>
             <p>
                 sou um estudante de ADS na Fatec Ribeirão Preto, focando
                 no meu crescimento como um desenvolvedor full stack.
-            </p>
-            <p>
                 tenho construído aplicações web, desktop e projetos pessoais, enquanto tenho explorado desenvolvimento de jogos.
             </p>
         </td>
