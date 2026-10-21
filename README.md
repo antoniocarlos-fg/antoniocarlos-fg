@@ -4,7 +4,7 @@
     <hr>
     <p>
         <img
-            src="https://skillicons.dev/icons?i=ts,react,tailwind,electron,tauri,flutter,mysql,git,linux,godot&theme=dark"
+            src="https://skillicons.dev/icons?i=ts,react,tailwind,electron,tauri,flutter,mysql,git,linux,godot&amp;theme=dark"
             alt="Tech Stack"
         />
     </p>
@@ -16,7 +16,7 @@
             <h3><code>about me</code></h3>
             <p>
                 i'm a software development student at Fatec Ribeirão Preto, Brazil,
-                focusing on my growth as a full stack developer. 
+                focusing on my growth as a full stack developer.
                 i've been working on web applications, desktop software,
                 and personal projects, while also exploring game development.
             </p>
@@ -33,21 +33,21 @@
     </tr>
 </table>
 <hr>
-<h4><code>featured projects</code></h4>
+<h3><code>featured projects</code></h3>
 <table>
     <tr>
         <td width="50%" valign="top">
-            <a href="https://github.com/antoniocarlos-fg/tarotr">
-                <h5>tarotr</h5>
-            </a>
+            <h5>
+                <a href="https://github.com/antoniocarlos-fg/tarotr">tarotr</a>
+            </h5>
             <p>
                 A desktop tarot reading application built with Tauri, React, TypeScript and Tailwind CSS.
             </p>
         </td>
         <td width="50%" valign="top">
-            <a href="https://github.com/antoniocarlos-fg/nail_it">
-                <h5>Nailt It!</h5>
-            </a>
+            <h5>
+                <a href="https://github.com/antoniocarlos-fg/nail_it">Nailt It!</a>
+            </h5>
             <p>
                 A mobile app for organizing and tracking a personal nail polish collection, developed using Flutter and Dart as an academic project.
             </p>
