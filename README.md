@@ -34,23 +34,19 @@
 </table>
 <hr>
 <h3><code>featured projects</code></h3>
-<table>
-    <tr>
-        <td width="50%" valign="top">
-            <h4>
-                <a href="https://github.com/antoniocarlos-fg/tarotr">tarotr</a>
-            </h4>
-            <p>
-                A desktop tarot reading application built with Tauri, React, TypeScript and Tailwind CSS.
-            </p>
-        </td>
-        <td width="50%" valign="top">
-            <h4>
-                <a href="https://github.com/antoniocarlos-fg/nail_it">Nailt It!</a>
-            </h4>
-            <p>
-                A mobile app for organizing and tracking a personal nail polish collection, developed using Flutter and Dart as an academic project.
-            </p>
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <a href="https://github.com/antoniocarlos-fg/tarotr">
+        <img
+            src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=tarotr&amp;theme=github_dark&amp;hide_border=true"
+            alt="Tarotr"
+            width="48%"
+        />
+    </a>
+    <a href="https://github.com/antoniocarlos-fg/nail_it">
+        <img
+            src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=nail_it&amp;theme=github_dark&amp;hide_border=true"
+            alt="Nail It!"
+            width="48%"
+        />
+    </a>
+</p>
