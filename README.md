@@ -40,15 +40,15 @@
             src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=tarotr&amp;theme=github_dark&amp;card_width=300"
             align="left"
             alt="Tarotr"
-            width="330"
+            width="300"
         />
     </a>
     <a href="https://github.com/antoniocarlos-fg/nail_it">
         <img
             src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=nail_it&amp;theme=github_dark&amp;card_width=300"
-            align="right"
+            align="left"
             alt="Nail It!"
-            width="330"
+            width="300"
         />
     </a>
 </p>
