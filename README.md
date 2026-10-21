@@ -1,6 +1,6 @@
 <div align="center">
     <img src="assets/header.jpg" alt="Header" width="100%">
-    <h1><code>software developer | system analysis and development student</code></h1>
+    <h2><code>software developer | system analysis and development student</code></h2>
     <hr>
     <p>
         <img
@@ -37,17 +37,17 @@
 <table>
     <tr>
         <td width="50%" valign="top">
-            <h5>
+            <h4>
                 <a href="https://github.com/antoniocarlos-fg/tarotr">tarotr</a>
-            </h5>
+            </h4>
             <p>
                 A desktop tarot reading application built with Tauri, React, TypeScript and Tailwind CSS.
             </p>
         </td>
         <td width="50%" valign="top">
-            <h5>
+            <h4>
                 <a href="https://github.com/antoniocarlos-fg/nail_it">Nailt It!</a>
-            </h5>
+            </h4>
             <p>
                 A mobile app for organizing and tracking a personal nail polish collection, developed using Flutter and Dart as an academic project.
             </p>
