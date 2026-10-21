@@ -37,18 +37,18 @@
 <p align="center">
     <a href="https://github.com/antoniocarlos-fg/tarotr">
         <img
-            src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=tarotr&amp;theme=github_dark&amp;hide_border=false"
-            align="top"
+            src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=tarotr&amp;theme=github_dark&amp;card_width=300"
+            align="left"
             alt="Tarotr"
-            width="45%"
+            width="330"
         />
     </a>
     <a href="https://github.com/antoniocarlos-fg/nail_it">
         <img
-            src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=nail_it&amp;theme=github_dark&amp;hide_border=false"
-            align="top"
+            src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=nail_it&amp;theme=github_dark&amp;card_width=300"
+            align="right"
             alt="Nail It!"
-            width="45%"
+            width="330"
         />
     </a>
 </p>
