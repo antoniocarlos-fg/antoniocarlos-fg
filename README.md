@@ -1,7 +1,6 @@
 <div align="center">
     <img src="assets/header.jpg" alt="Header" width="100%">
     <h2><code>software developer | system analysis and development student</code></h2>
-    <hr>
     <p>
         <img
             src="https://skillicons.dev/icons?i=ts,react,tailwind,electron,tauri,flutter,mysql,git,linux,godot&amp;theme=dark"
