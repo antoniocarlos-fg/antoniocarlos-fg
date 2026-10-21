@@ -15,12 +15,20 @@
         <td width="60%" valign="center">
             <h4><code>about me</code></h4>
             <p>
-                i'm a software development student at Fatec Ribeirão Preto, Brazil, 
-                focused on my growth as a full stack developer.
+                i'm a software development student at Fatec Ribeirão Preto, Brazil,
+                focusing on my growth as a full stack developer.
             </p>
             <p>
-                i've been working on web applications, desktop software, 
+                i've been working on web applications, desktop software,
                 and personal projects, while also exploring game development.
+            </p>
+            <h4><code>sobre mim 🇧🇷</code></h4>
+            <p>
+                sou um estudante de ADS na Fatec Ribeirão Preto, focando
+                no meu crescimento como um desenvolvedor full stack.
+            </p>
+            <p>
+                tenho construído aplicações web, desktop e projetos pessoais, enquanto tenho explorado desenvolvimento de jogos.
             </p>
         </td>
         <td>
@@ -31,7 +39,7 @@
 <hr>
 <h4><code>featured projects</code></h4>
 <table>
-    <tr>    
+    <tr>
         <td width="50%" valign="top">
             <a href="https://github.com/antoniocarlos-fg/tarotr">
                 <h5>tarotr</h5>
@@ -45,7 +53,7 @@
                 <h5>Nailt It!</h5>
             </a>
             <p>
-                A mobile app for organizing and tracking a personal nail polish collection, developed using Flutter and Dart as an academic project.   
+                A mobile app for organizing and tracking a personal nail polish collection, developed using Flutter and Dart as an academic project.
             </p>
         </td>
     </tr>
