@@ -1,6 +1,6 @@
 <div align="center">
     <img src="assets/header.jpg" alt="Header" width="100%">
-    <h2><code>software developer | system analysis and development student</code></h2>
+    <h1><code>software developer | system analysis and development student</code></h1>
     <hr>
     <p>
         <img
