@@ -38,15 +38,17 @@
     <a href="https://github.com/antoniocarlos-fg/tarotr">
         <img
             src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=tarotr&amp;theme=github_dark&amp;hide_border=false"
+            align="top"
             alt="Tarotr"
-            width="48%"
+            width="45%"
         />
     </a>
     <a href="https://github.com/antoniocarlos-fg/nail_it">
         <img
             src="https://github-stats-extended.vercel.app/api/pin/?username=antoniocarlos-fg&amp;repo=nail_it&amp;theme=github_dark&amp;hide_border=false"
+            align="top"
             alt="Nail It!"
-            width="48%"
+            width="45"
         />
     </a>
 </p>
